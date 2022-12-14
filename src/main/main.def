@@ -1,4 +1,8 @@
 
+# add known codes - in std formats - from args
+
+# configure output ranges
+
 # is primary
 # is cluster
 
@@ -15,3 +19,11 @@ lookup_base_m= []
 
 # experiment with ranges
 default_m_mods= []
+
+# parse the qua....
+
+# get the profile lets
+
+# apply known 
+
+# write web viewer...
