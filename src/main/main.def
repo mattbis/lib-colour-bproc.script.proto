@@ -1,0 +1,7 @@
+# import data from known sources
+
+# first lets define some general variations... 
+lookup_base_m= []
+
+# experiment with ranges
+default_m_mods= []
